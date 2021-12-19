@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pikachoof
-- 👀 I’m interested in Competitive Programming and Android Development
-- 🌱 I’m currently learning Java for Android Development
+- 👀 I’m interested in Competitive Programming and Cross-Platform App Development
+- 🌱 I’m currently learning Flutter and everything related to it
 - 📫 How to reach me: alihankelden70@gmail.com
 
 <!---
