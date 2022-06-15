@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pikachoof
-- 👀 I’m interested in Competitive Programming and Cross-Platform App Development
-- 🌱 I’m currently learning Flutter and everything related to it
+- 👀 I’m interested in Machine Learning and Full-Stack Web & App development
+- 🌱 I’m currently learning the basics of ML via coursera
 - 📫 How to reach me: alihankelden70@gmail.com
 
 <!---
